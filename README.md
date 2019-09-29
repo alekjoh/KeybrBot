@@ -7,5 +7,5 @@ It usually gets around 6000-7000 cpm (characters per minute is what I assume tha
 
 # Prerequisites
 Python\
-Selenium\
+Selenium (pip install selenium)\
 Something to run code
